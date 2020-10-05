@@ -1,2 +1,2 @@
 # git-github 
-this is my first try to learn git. I am nervous.
+this is an unknown project yet.
